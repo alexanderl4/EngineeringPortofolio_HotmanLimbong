@@ -4,7 +4,7 @@ Welcome to my technical portfolio repository. This space showcases a curated sel
 
 ## 📑 Core Portfolio Document
 The complete, high-resolution documentation of my engineering work is available below:
-👉 **[View Full Engineering Portfolio (PDF)](PASTIKAN_PASTE_LINK_PERMALINK_DI_SINI)**
+👉 **[View Full Engineering Portfolio (PDF)](https://github.com/alexanderl4/EngineeringPortofolio_HotmanLimbong/blob/b8fb26f02d5668979665e86ea079bb396503c5c2/Hotman%20Jhonson%20Alexander%20Limbong_Engineering%20Portfolio.pdf)**
 
 ---
 
